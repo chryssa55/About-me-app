@@ -16,7 +16,7 @@ struct ContentView: View {
                 .ignoresSafeArea()
         }
         VStack {
-            Text("All about me")
+            Text("All about me..")
                 .font(largeTitle)
                 .fontWeight(bold)
             Image("dog1")
